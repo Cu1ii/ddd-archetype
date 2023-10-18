@@ -1,8 +1,9 @@
 <div align=center><img src="https://s1.ax1x.com/2023/05/22/p9o1OG6.png"/></div>
 
-# 注：本文最后附DDD免费学习资料
 
 **各位朋友clone和fork之前，麻烦顺手帮忙star一下！**
+
+**基于 https://github.com/feiniaojin/ddd-archetype/tree/main 进行改造**
 
 # 1. ddd-archetype介绍
 
@@ -108,14 +109,12 @@ archetype:crawl
 - 项目创建完成后：
   [![p9TtUh9.png](https://s1.ax1x.com/2023/05/23/p9TtUh9.png)](https://imgse.com/i/p9TtUh9)
 
-# DDD学习免费电子书
+# 注意事项
+1. 本项目长期维护, 后续会修正出现了的各类依赖以及构建问题
+2. 在构建完成后父 pom 会出现每一行都有多个空格的情况, 可参考 [idea 快速删除空行](https://blog.csdn.net/weixin_42241455/article/details/115393780)
 
-作者将多年领域驱动设计的经验，撰写成《悟道DDD（Thinking in DDD）》这一电子书，力求用最平实、最通俗、最容易理解的方式将DDD分享给各位朋友。
 
-本电子书永久免费阅读，欢迎沟通交流。
+# TODO
 
-![](https://s1.ax1x.com/2023/06/27/pCa5cm6.png)
+- [ ] 完成脚手架结构简介
 
-项目地址：https://github.com/feiniaojin/Thinking-in-DDD
-
-在线阅读：http://ddd.feiniaojin.com/
