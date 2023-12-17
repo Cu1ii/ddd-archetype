@@ -62,4 +62,16 @@
             <scope>runtime</scope>
         </dependency>
     </dependencies>
+    <build>
+        <!--解决 mvn archetype:create 后的空包-->
+        <sourceDirectory>src</sourceDirectory>
+        <resources>
+            <resource>
+                <directory>src</directory>
+                <includes>
+                    <include>**/*.properties</include>
+                </includes>
+            </resource>
+        </resources>
+    </build>
 </project>
