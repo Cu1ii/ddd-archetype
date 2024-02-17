@@ -30,6 +30,7 @@
         <graceful-response.version>3.1.0</graceful-response.version>
         <jackson.version>2.15.2</jackson.version>
         <commons-lang3.version>3.4</commons-lang3.version>
+        <mysql-connector-java.version>8.0.13</mysql-connector-java.version>
         <mybatis-plus.version>3.5.1</mybatis-plus.version>
         <mybatis.version>3.5.10</mybatis.version>
         <lombok.version>1.18.22</lombok.version>
